@@ -14,7 +14,6 @@ This project performs both basic arithmetic and scientific calculations through 
 
 ## Technologies Used
 - C Programming
-- GCC Compiler
 
 ## Author
 Shivam Sharma
